@@ -1,0 +1,66 @@
+## Hallery Terms and Conditions
+
+### 1. Introduction
+
+Welcome to Hallery! These terms and conditions govern your use of our platform, which is designed to connect artists and allow them to share their work. By registering an account or using our services, you agree to comply with these terms.
+
+### 2. Account Registration and Eligibility
+
+- Eligibility: You must be at least 18 years old to create an account on Hallery. Users under 18 are prohibited from using our services.
+- Registration Information: When creating an account, you must provide a valid email address and your birthdate. This information will help us manage your account and communicate with you.
+- Profile Creation: You can create a profile to share your artwork and connect with other artists. The information you share on your profile is at your discretion, but you are responsible for ensuring it complies with our content guidelines.
+
+### 3. Content Guidelines
+
+- Allowed Content: Users can share images, videos, and text on Hallery. This platform is intended for artistic expression, so feel free to showcase your work.
+- Prohibited Content: While adult content is permitted, any illegal activities, hate speech, harassment, or similarly harmful content are strictly prohibited. We reserve the right to remove any content that violates these guidelines.
+- Content Ownership: You retain ownership of the content you post. However, by sharing content on Hallery, you grant us a license to use, modify, and distribute your content as necessary to operate and promote the platform, similar to how Instagram operates.
+
+### 4. User Conduct
+
+- Behavior Expectations: Users are expected to interact with others respectfully. Any form of harassment, bullying, or spamming is not tolerated.
+- Enforcement: Violations of our rules may result in permanent bans from the platform. Users are responsible for the content they share and how they interact with others on Hallery.
+
+### 5. Privacy and Data Protection
+
+- Data Collection: We collect personal data, including your email, birthdate, and usage data. This data helps us manage the platform and improve your experience. We use Google Analytics and Firebase Crashlytics for analytics and app performance tracking.
+- Data Storage: Your data is securely stored in our databases. Only authorized personnel can access your data, except for messages, which remain private.
+- Third-Party Services: We use Firebase Analytics and Crashlytics to monitor app performance. By using Hallery, you agree to their terms of service and privacy policies, which can be found [here](https://policies.google.com/privacy) (Google’s Privacy Policy).
+- GDPR and CCPA Compliance: We respect your privacy rights. If you are located in the EU or California, you have the right to access, correct, delete your data, and opt-out of data collection as per GDPR and CCPA regulations. Contact us at [privacy@hallery.art](mailto:privacy@hallery.art) for any requests.
+
+### 6. Content Reporting and Moderation
+
+- Reporting Inappropriate Content: Users can report content that violates our guidelines. We will review the content and take action if necessary, including removing the content or suspending accounts.
+- Content Removal: We reserve the right to remove content that violates our terms or applicable laws. Repeat violations may result in permanent account suspension.
+
+### 7. Account Termination
+- User-Initiated Termination: If you wish to delete your account, please contact us at [privacy@hallery.art](mailto:privacy@hallery.art). We will assist with the process.
+- Platform-Initiated Termination: We may terminate accounts that violate our terms, particularly for repeated or severe violations. Terminated accounts will have their data suspended and inaccessible.
+
+### 8. Disclaimers and Limitation of Liability
+
+- No Guarantees: We do not guarantee uninterrupted service or error-free performance of the app. Hallery is provided "as is," and we are not responsible for any content uploaded or shared on the platform.
+- Limitation of Liability: In the event of a data breach, service interruption, or other issues, Hallery's liability is limited to the extent permitted by law. We are not responsible for user-generated content and interactions.
+
+### 9. Changes to the Terms
+
+- Notification of Changes: We may update these terms and conditions periodically. We will notify users of significant changes via email. Users must accept the new terms to continue using Hallery.
+- Acceptance of Changes: Continued use of Hallery after any changes implies acceptance of the updated terms.
+
+### 10. Jurisdiction
+
+- Governing Law: These terms are governed by the laws of California, USA. Any disputes arising from these terms will be resolved in the courts of California.
+
+### 11. Intellectual Property
+
+- Ownership: All trademarks, logos, and software associated with Hallery are the property of Hallery. Unauthorized use of our intellectual property is prohibited.
+- Protection: We reserve the right to enforce our intellectual property rights to prevent unauthorized use or infringement.
+
+### 12. Contact Information
+
+- Support: If you have any questions, concerns, or need assistance, please contact us at [privacy@hallery.art](mailto:privacy@hallery.art).
+
+### 13. Final Provisions
+
+- Entire Agreement: These terms constitute the entire agreement between you and Hallery regarding your use of the platform. Any previous agreements or understandings are superseded by these terms.
+
