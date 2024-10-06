@@ -1,0 +1,47 @@
+END-USER LICENSE AGREEMENT (EULA)
+
+Effective Date: 6 october 2024
+
+This End-User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Hallery ("Company", "We", or "Us") for the use of the Hallery mobile application, software, services, and any associated documentation (collectively referred to as the "App").
+
+By installing, accessing, or using the App, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, access, or use the App.
+
+1. License Grant
+The Company grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes in accordance with the terms of this Agreement.
+
+2. Restrictions
+You agree not to:
+
+Modify, reverse-engineer, decompile, or disassemble the App.
+Use the App for any unlawful purpose.
+Rent, lease, or sublicense the App to any third party.
+Copy, redistribute, or transfer any part of the App except as expressly permitted by this Agreement.
+Interfere with or disrupt the App’s functionality or security.
+3. Ownership
+The App is owned by the Company and is protected by copyright, trademark, and other intellectual property laws. You are granted a license to use the App; you do not own the App. All rights not expressly granted are reserved by the Company.
+
+4. User Data and Privacy
+The collection, use, and processing of your personal data are governed by our Privacy Policy. By using the App, you agree to the terms of our Privacy Policy.
+
+5. Termination
+This Agreement is effective until terminated. The Company may terminate your access to the App at any time, with or without notice, for any reason, including but not limited to your violation of this Agreement.
+
+Upon termination, you must cease all use of the App and delete all copies in your possession.
+
+6. Disclaimers
+The App is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+The Company does not warrant that the App will be uninterrupted, error-free, or secure.
+7. Limitation of Liability
+To the fullest extent permitted by applicable law, the Company shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, use, or profits, arising out of or related to your use or inability to use the App, even if advised of the possibility of such damages.
+
+8. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction], without regard to its conflict of law principles. You agree to submit to the exclusive jurisdiction of the courts in [Insert Jurisdiction] to resolve any legal matters arising from this Agreement.
+
+9. Amendments
+We may amend or update this Agreement from time to time. You will be notified of any changes either through the App or via email. Continued use of the App after any such changes shall constitute your consent to such changes.
+
+10. Contact Information
+If you have any questions or concerns about this Agreement, please contact us at:
+
+Email: info@hallery.art
+Website: https://hallery.art
